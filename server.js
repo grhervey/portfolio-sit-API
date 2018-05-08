@@ -63,6 +63,9 @@ const projects = [{
         text: 'User can generate a live updating linear gradiant background',
         tools: ['CSS','HTML','JavaScript'],
     }]
+app.get('/',(req, res) => {
+    res.send('It is working!')
+})
 app.get('/projects',(req, res) => {
     res.send(projects);
 })
