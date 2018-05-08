@@ -18,8 +18,8 @@ const projects = [{
         image:faceicon,
         link:'http://face-finder.herokuapp.com/',
         git:'github.com',
-        text: 'Users can register and login and are presented with an interface where they can insert a JPG image url and the image will be displayed and if a face is detected then it will be highlighted. A total count of submitted Images by users are tracked.'
-        tools: ['React','JavaScript', 'ES6','Node','Express', 'PostgreSQL','Face detection API'],
+        text: 'Users can register and login and are presented with an interface where they can insert a JPG image url and the image will be displayed and if a face is detected then it will be highlighted. A total count of submitted Images by users are tracked.',
+        tools: ['React','JavaScript', 'ES6','Node','Express', 'PostgreSQL','Face detection API',],
     }, {
         projectName:'Word Affinity',
         image:wordAffinity,
