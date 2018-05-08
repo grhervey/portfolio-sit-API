@@ -52,7 +52,7 @@ const projects = [{
         link:'https://github.com/grhervey/Complete_web_dev_Udemy/tree/master/image_gallery',
         git:'https://github.com/grhervey/Complete_web_dev_Udemy/tree/master/image_gallery',
         text: 'Reactive image gallery to what ever screen it is displayed on.',
-        tools: 'Flask, Node, JavaScript, Python',
+        tools: 'JavaScript, HTML, CSS',
     }, {
         projectName:'Background Generator',
         image:w2e,
